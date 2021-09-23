@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [3.0.3](https://www.github.com/Cairon/istanbuljs/compare/istanbul-reports-v3.0.2...istanbul-reports-v3.0.3) (2021-09-23)
+
+
+### Bug Fixes
+
+* lcov reporter crash when missing branches ([93ef906](https://www.github.com/Cairon/istanbuljs/commit/93ef90693de2231dfb0f255e686726209b833ecb))
+
 ## [3.0.2](https://github.com/istanbuljs/istanbuljs/compare/istanbul-reports@3.0.1...istanbul-reports@3.0.2) (2020-04-01)
 
 
